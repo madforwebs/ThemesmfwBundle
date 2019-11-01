@@ -1,0 +1,22 @@
+{
+  "name": "madforwebs/themesmfw-bundle",
+  "description": "This bundle provides a themesmfwbundle for symfony2",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": {
+      "MadForWebs\\ThemesmfwBundle\\": ""
+    }
+  },
+  "require": {
+    "symfony/framework-bundle": "~2.3|~3.2"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fernando Sánchez Martínez",
+      "email": "fer@madforwebs.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
