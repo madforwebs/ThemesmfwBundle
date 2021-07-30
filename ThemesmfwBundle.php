@@ -11,7 +11,7 @@
  * @author Fernando Sánchez Martínez <fer@madforwebs.com>
  */
 
-namespace ThemesmfwBundle;
+namespace MadForWebs\ThemesmfwBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
